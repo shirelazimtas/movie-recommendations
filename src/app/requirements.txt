@@ -1,0 +1,17 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+fastapi 
+uvicorn
+wikipedia
+pandas
+pytest
+seaborn
+kaggle
+nearest-neighbors
+numpy
+sklearn-pandas
+scikit-learn
+scipy
+seaborn
+comtypes
+python-Levenshtein
+fuzzywuzzy
