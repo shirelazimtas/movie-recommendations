@@ -1,1 +1,9 @@
 # movie
+
+There is three get request:
+1. the user type movie name and will recive 6 recommened movie baised popularity and voteing 
+2. The user type genre and will recive top ten most popularity in this spefic genre
+3. The user type the movie name and will recive information from wikipedia
+![WhatsApp Image 2022-04-26 at 20 18 59](https://user-images.githubusercontent.com/83716607/165385500-21d3bd1b-c280-4e30-aeea-309e7e42c649.jpeg)
+
+
