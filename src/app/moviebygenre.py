@@ -22,5 +22,5 @@ def genres(genre):
     title = title['title'].head(10)
     arr_title = title.to_numpy()
     arr_title = arr_title.tolist()
-    print(type(arr_title))
     return arr_title
+

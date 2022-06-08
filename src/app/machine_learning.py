@@ -97,3 +97,4 @@ def recommended_movies(movie_name):
     movie_user_popular = data_clening()
     x = recommender_knn(movie_name, movie_user_popular, 7)
     return x
+

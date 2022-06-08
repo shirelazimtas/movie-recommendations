@@ -1,6 +1,7 @@
 import wikipedia
 
 
+
 def stringToList(string):
     listRes = list(string.split(" "))
     return listRes
@@ -19,3 +20,4 @@ def wikipedia_data(jeans):
     except:
         list_wiki = stringToList("try again")
     return list_wiki
+

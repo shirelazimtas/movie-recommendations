@@ -18,3 +18,4 @@ def test_get_genres():
 def test_get_wikipedia():
     response = client.get("/v3/comedyfilm")
     assert response.status_code == 200
+
