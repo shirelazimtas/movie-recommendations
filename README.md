@@ -9,7 +9,7 @@ There is three get request:
 
 ![image](https://user-images.githubusercontent.com/83716607/165389207-3f96a6a3-a180-40f2-abfa-3fe2ecc28a59.png)
 
-# How to run 
+# How to run ⬆️ 
 1. Clone project: gh repo clone EASS-HIT-2022/movie
 2. open your treminal and go  .../movie/src
 3. Run docker compose build
