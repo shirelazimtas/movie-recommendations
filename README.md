@@ -1,4 +1,10 @@
-# movie
+# movie  📺 
+
+how many time you couldn't decide which movie to watch?
+Using my apps will match for you the best movie, and summary about it.
+The second spectacular option is that you can type your best genre and recive 10 top movie by this genre.
+
+
 
 There is three get request:
 1. the user type movie name and will recive 6 recommened movie baised popularity and voteing 
