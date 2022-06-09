@@ -11,8 +11,9 @@ There is three get request:
 
 # How to run 
 1. Clone project: gh repo clone EASS-HIT-2022/movie
-2. Run docker compose build
-3. Run docker-compose -f docker-compose.yml up
+2. open your treminal and go  .../movie/src
+3. Run docker compose build
+4. Run docker-compose -f docker-compose.yml up
 
 # project demo
 https://www.youtube.com/watch?v=ILT2fZBcbYc
